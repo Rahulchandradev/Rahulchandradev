@@ -1,7 +1,6 @@
 
 <img src="https://camo.githubusercontent.com/b3f4de252ce59886baaa8c4db6ecf45f50b0e20031128ab36ef87a1c5a66f67d/68747470733a2f2f7777772e65766961676c6f62616c2e636f6d2f696d616765732f46726f6e742d456e642d5765622d446576656c6f706d656e742e6a7067" alt="banner"><h1 align="center">Hi 👋, I'm Rahul chandra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png" alt="Banner">
 
 - 🔭 I’m currently working on **Frontend Dev**
 
